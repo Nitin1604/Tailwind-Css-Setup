@@ -8,7 +8,7 @@ npm init -y
 ```
 Step 2: Install the required packages.
 ```
-npm install -D
+npm install -D tailwindcss postcss autoprefix vite
 ```
 Step 3: Use this command to set intiailize the tailwind css.
 ```
