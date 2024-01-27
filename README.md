@@ -10,7 +10,7 @@ Step 2: Install the required packages.
 ```
 npm install -D tailwindcss postcss autoprefix vite
 ```
-Step 3: Use this command to set intiailize the tailwind css.
+Step 3: Use this command to generate the tailwind.config.js file in your code editor.
 ```
 npmx tailwind init -p
 ```
