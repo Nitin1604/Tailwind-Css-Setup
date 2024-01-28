@@ -12,7 +12,7 @@ npm install -D tailwindcss postcss autoprefix vite
 ```
 Step 3: Use this command to generate the tailwind.config.js file in your code editor.
 ```
-npmx tailwind init -p
+npx tailwind init -p
 ```
 Step 4: Create a css file "input.css", add it to your html and edit it with this content:-
 ```
