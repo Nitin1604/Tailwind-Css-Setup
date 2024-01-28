@@ -24,11 +24,11 @@ Step 5: In your tailwind.config.js file replace content[], with content["*"],
 
 Replace this line 
 ```
-content[]
+content: []
 ```
 with this line 
 ```
-content["*"]
+content: ["*"]
 ```
 
 Step 6: Add "start" : "vite" to your scripts in package.json.
