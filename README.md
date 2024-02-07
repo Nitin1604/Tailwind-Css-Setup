@@ -71,17 +71,21 @@ npm install vite
 ```
 After installing vite in the terminal or vs code terminal this message will be shown as given below:-
 
+```
 added 10 packages in 4s
 
 3 packages are looking for funding
   run `npm fund` for details
+```
 
 2nd Command:-
 ```
 npm init -y
 ```
 This message will be shown as given below:-
+
 => Wrote to D:\Project Series\{Your Project Name}\package.json: 
+```
 Wrote to D:\Project Series\CodeWithHarry Webiste Clone\package.json:
 
 {
@@ -100,12 +104,15 @@ Wrote to D:\Project Series\CodeWithHarry Webiste Clone\package.json:
   "license": "ISC",
   "description": ""
 }
+```
 
 3rd Command:-
 ```
 npm install -D tailwindcss postcss autoprefix vite
 ```
 This message will be shown as given below:-
+
+```
 npm WARN idealTree Removing dependencies.vite in favor of devDependencies.vite
 npm WARN deprecated browserslist@0.2.0: Browserslist 2 could fail on reading Browserslist >3.0 config used in other tools.
 
@@ -120,14 +127,18 @@ Some issues need review, and may require choosing
 a different dependency.
 
 Run `npm audit` for details.
+```
 
 4th Command:-
 ```
 npx tailwind init -p
 ```
+
 This message will be shown as given below:-
+```
 Created Tailwind CSS config file: tailwind.config.js
 Created PostCSS config file: postcss.config.js
+```
 
 5th Command:-
 ```
@@ -135,6 +146,7 @@ npm run start
 ```
 This message will be shown as given below:-
 
+```
 > codewithharry-webiste-clone@1.0.0 start
 > vite
 
@@ -144,3 +156,4 @@ This message will be shown as given below:-
   ➜  Local:   http://localhost:5173/
   ➜  Network: use --host to expose
   ➜  press h + enter to show help
+```
