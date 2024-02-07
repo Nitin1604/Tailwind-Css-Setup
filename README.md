@@ -72,7 +72,7 @@ npm install -D tailwindcss postcss autoprefixer
 After installing vite in the terminal or vs code terminal this message will be shown as given below:-
 
 ```
-added 121 packages in 8s
+added 121 packages in 5s
 
 32 packages are looking for funding
   run `npm fund` for details
@@ -96,7 +96,6 @@ This message will be shown as given below:-
 Wrote to D:\Project Series\{Your project name}\package.json:
 ```
 Wrote to D:\Project Series\CodeWithHarry Website Clone\package.json:
-
 {
   "devDependencies": {
     "autoprefixer": "^10.4.17",
@@ -198,19 +197,21 @@ Wrote to D:\Project Series\CodeWithHarry Website Clone\package.json:
     "ts-interface-checker": "^0.1.13",
     "update-browserslist-db": "^1.0.13",
     "util-deprecate": "^1.0.2",
+    "vite": "^5.0.12",
     "which": "^2.0.2",
     "wrap-ansi": "^8.1.0",
     "wrap-ansi-cjs": "^7.0.0",
     "yaml": "^2.3.4"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "vite"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": ""
 }
+
 
 ```
 
@@ -232,7 +233,7 @@ npm install vite
 This message will be shown as given below:-
 
 ```
-added 6 packages, and audited 128 packages in 5s
+added 6 packages, and audited 128 packages in 2s
 
 33 packages are looking for funding
   run `npm fund` for details
