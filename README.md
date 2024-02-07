@@ -64,5 +64,83 @@ Step 5: Run the following command:
 npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
 ```
 
+## Commands that i used in tailwind css project are as follows:-
+1st Command:-
+```
+npm install vite
+```
+After installing vite in the terminal or vs code terminal this message will be shown as given below:-
+
+added 10 packages in 4s
+
+3 packages are looking for funding
+  run `npm fund` for details
+
+2nd Command:-
+```
+npm init -y
+```
+This message will be shown as given below:-
+=> Wrote to D:\Project Series\{Your Project Name}\package.json: 
+Wrote to D:\Project Series\CodeWithHarry Webiste Clone\package.json:
+
+{
+  "dependencies": {
+    "vite": "^5.0.12"
+  },
+  "name": "codewithharry-webiste-clone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+
+3rd Command:-
+```
+npm install -D tailwindcss postcss autoprefix vite
+```
+This message will be shown as given below:-
+npm WARN idealTree Removing dependencies.vite in favor of devDependencies.vite
+npm WARN deprecated browserslist@0.2.0: Browserslist 2 could fail on reading Browserslist >3.0 config used in other tools.
+
+added 119 packages, and audited 130 packages in 10s
+
+28 packages are looking for funding
+  run `npm fund` for details
+
+3 moderate severity vulnerabilities
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+
+4th Command:-
+```
+npx tailwind init -p
+```
+This message will be shown as given below:-
+Created Tailwind CSS config file: tailwind.config.js
+Created PostCSS config file: postcss.config.js
+
+5th Command:-
+```
+npm run start
+```
+This message will be shown as given below:-
+
+> codewithharry-webiste-clone@1.0.0 start
+> vite
 
 
+  VITE v5.0.12  ready in 227 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
