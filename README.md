@@ -95,7 +95,7 @@ This message will be shown as given below:-
 
 Wrote to D:\Project Series\{Your project name}\package.json:
 ```
-Wrote to D:\Project Series\CodeWithHarry Webiste Clone\package.json:
+Wrote to D:\Project Series\CodeWithHarry Website Clone\package.json:
 
 {
   "devDependencies": {
@@ -103,7 +103,7 @@ Wrote to D:\Project Series\CodeWithHarry Webiste Clone\package.json:
     "postcss": "^8.4.34",
     "tailwindcss": "^3.4.1"
   },
-  "name": "codewithharry-webiste-clone",
+  "name": "codewithharry-website-clone",
   "version": "1.0.0",
   "main": "tailwind.config.js",
   "dependencies": {
@@ -245,7 +245,7 @@ npm run start
 ```
 This message will be shown as given below:-
 ```
-> codewithharry-webiste-clone@1.0.0 start
+> codewithharry-website-clone@1.0.0 start
 > vite
 
 
