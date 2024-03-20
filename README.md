@@ -1,5 +1,5 @@
 ## Setup for Tailwind CSS                                                
-
+ 
 ### To setup tailwind css, run these commands
 
 Step 1: This initializes the directory as a NodeJs project.
